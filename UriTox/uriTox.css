@@ -1,0 +1,28 @@
+.main{
+    background-color:#0513c4;
+}
+.navbar{
+    background-color:#0513c4;
+}
+.navbar-brand{
+    color: white;
+    font-size: 15px;
+}
+.dropdown-menu{
+    border: none;
+}
+li.nav-item.dropdown {
+    display: block;
+}
+.anchor3{
+    display: contents;
+    line-height: 2.5;
+    color: black;
+}
+h4{
+    font-size: 25px;
+    font-weight: 600;
+}
+.Panels{
+    line-height: 1.5;
+}
